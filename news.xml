@@ -1,0 +1,909 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>자동차 사이버보안 가상 뉴스 테스트</title>
+    <link>https://jihun4355.github.io/rss_news/</link>
+    <description>실습용 가상 자동차 사이버보안 뉴스 피드. 실제 사건 아님.</description>
+    <language>ko-kr</language>
+    <item>
+      <title>차량 원격 접속 기능에서 비인가 접근 가능성 확인</title>
+      <guid isPermaLink="false">SEC-00001</guid>
+      <description>차량 원격 접속 기능에서 비인가 접근 가능성 확인과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Tue, 01 Sep 2026 16:13:00 +0900</pubDate>
+      <source url="https://example.com/">가상 모빌리티 보안뉴스</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00001.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>A사 차량 통신 시스템에서 인증 절차 우회 가능성 제기</title>
+      <guid isPermaLink="false">SEC-00002</guid>
+      <description>A사 차량 통신 시스템에서 인증 절차 우회 가능성 제기과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Tue, 01 Sep 2026 23:26:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량보안 리포트</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00002.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>스마트키 무선 신호 재전송 공격에 대한 보안 대응 필요성 증가</title>
+      <guid isPermaLink="false">SEC-00003</guid>
+      <description>스마트키 무선 신호 재전송 공격에 대한 보안 대응 필요성 증가과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Wed, 02 Sep 2026 06:39:00 +0900</pubDate>
+      <source url="https://example.com/">가상 오토사이버 데일리</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00003.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 내부 통신망에 비정상 메시지 유입 가능성 분석</title>
+      <guid isPermaLink="false">SEC-00004</guid>
+      <description>차량 내부 통신망에 비정상 메시지 유입 가능성 분석과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Wed, 02 Sep 2026 13:52:00 +0900</pubDate>
+      <source url="https://example.com/">가상 커넥티드카 보안센터</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00004.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>B사 차량 원격 제어 기능의 사용자 인증 방식 개선</title>
+      <guid isPermaLink="false">SEC-00005</guid>
+      <description>B사 차량 원격 제어 기능의 사용자 인증 방식 개선과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Wed, 02 Sep 2026 20:10:00 +0900</pubDate>
+      <source url="https://example.com/">가상 모빌리티 위협분석소</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00005.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 인포테인먼트 시스템을 통한 공격 경로 분석</title>
+      <guid isPermaLink="false">SEC-00006</guid>
+      <description>차량 인포테인먼트 시스템을 통한 공격 경로 분석과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Thu, 03 Sep 2026 03:23:00 +0900</pubDate>
+      <source url="https://example.com/">가상 자동차 보안저널</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00006.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 네트워크 침입 탐지 기술의 실효성 검증</title>
+      <guid isPermaLink="false">SEC-00007</guid>
+      <description>차량 네트워크 침입 탐지 기술의 실효성 검증과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 이상 징후를 기록하고 임계치 초과 시 경보를 발생시키는 탐지 규칙을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Thu, 03 Sep 2026 10:36:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량 SW 보안브리핑</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00007.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량용 무선 통신 모듈의 인증정보 노출 가능성 점검</title>
+      <guid isPermaLink="false">SEC-00008</guid>
+      <description>차량용 무선 통신 모듈의 인증정보 노출 가능성 점검과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Thu, 03 Sep 2026 17:49:00 +0900</pubDate>
+      <source url="https://example.com/">가상 오토네트워크 뉴스</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00008.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 제어 시스템의 비인가 명령 실행 위험 분석</title>
+      <guid isPermaLink="false">SEC-00009</guid>
+      <description>차량 제어 시스템의 비인가 명령 실행 위험 분석과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Fri, 04 Sep 2026 00:07:00 +0900</pubDate>
+      <source url="https://example.com/">가상 사이버모빌리티 리뷰</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00009.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>자동차 사이버 공격 탐지를 위한 이상 행위 분석 기술 개발</title>
+      <guid isPermaLink="false">SEC-00010</guid>
+      <description>자동차 사이버 공격 탐지를 위한 이상 행위 분석 기술 개발과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 이상 징후를 기록하고 임계치 초과 시 경보를 발생시키는 탐지 규칙을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Fri, 04 Sep 2026 07:20:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량취약점 정보센터</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00010.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 외부 통신 인터페이스를 통한 접근통제 우회 위험 점검</title>
+      <guid isPermaLink="false">SEC-00011</guid>
+      <description>차량 외부 통신 인터페이스를 통한 접근통제 우회 위험 점검과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Fri, 04 Sep 2026 14:33:00 +0900</pubDate>
+      <source url="https://example.com/">가상 모빌리티 보안뉴스</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00011.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>C사 차량 보안 시스템에서 암호키 관리 개선 필요성 확인</title>
+      <guid isPermaLink="false">SEC-00012</guid>
+      <description>C사 차량 보안 시스템에서 암호키 관리 개선 필요성 확인과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 암호키의 접근 권한을 제한하고 주기적으로 교체하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Fri, 04 Sep 2026 21:46:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량보안 리포트</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00012.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 통신 데이터 변조 공격 대응 기술 시험</title>
+      <guid isPermaLink="false">SEC-00013</guid>
+      <description>차량 통신 데이터 변조 공격 대응 기술 시험과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 전자서명과 해시값을 검증하고 신뢰할 수 없는 파일을 거부하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sat, 05 Sep 2026 04:04:00 +0900</pubDate>
+      <source url="https://example.com/">가상 오토사이버 데일리</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00013.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>커넥티드카 원격 명령 처리 과정의 보안 검증 강화</title>
+      <guid isPermaLink="false">SEC-00014</guid>
+      <description>커넥티드카 원격 명령 처리 과정의 보안 검증 강화과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sat, 05 Sep 2026 11:17:00 +0900</pubDate>
+      <source url="https://example.com/">가상 커넥티드카 보안센터</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00014.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 내부 네트워크와 외부 서비스 간 보안 경계 점검</title>
+      <guid isPermaLink="false">SEC-00015</guid>
+      <description>차량 내부 네트워크와 외부 서비스 간 보안 경계 점검과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sat, 05 Sep 2026 18:30:00 +0900</pubDate>
+      <source url="https://example.com/">가상 모빌리티 위협분석소</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00015.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>A사, OTA 업데이트 패키지 위변조 방지 기술 적용</title>
+      <guid isPermaLink="false">SEC-00016</guid>
+      <description>OTA 업데이트 패키지 위변조 방지 기술 적용과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 전자서명과 해시값을 검증하고 신뢰할 수 없는 파일을 거부하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sun, 06 Sep 2026 01:43:00 +0900</pubDate>
+      <source url="https://example.com/">가상 자동차 보안저널</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00016.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 소프트웨어 업데이트 과정에서 인증서 검증 오류 발견</title>
+      <guid isPermaLink="false">SEC-00017</guid>
+      <description>차량 소프트웨어 업데이트 과정에서 인증서 검증 오류 발견과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 전자서명과 해시값을 검증하고 신뢰할 수 없는 파일을 거부하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sun, 06 Sep 2026 08:01:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량 SW 보안브리핑</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00017.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>B사, 차량 업데이트 서버의 접근 권한 관리 체계 개선</title>
+      <guid isPermaLink="false">SEC-00018</guid>
+      <description>차량 업데이트 서버의 접근 권한 관리 체계 개선과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 전자서명과 해시값을 검증하고 신뢰할 수 없는 파일을 거부하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sun, 06 Sep 2026 15:14:00 +0900</pubDate>
+      <source url="https://example.com/">가상 오토네트워크 뉴스</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00018.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>OTA 업데이트 중 통신 연결 중단에 따른 보안 위험 분석</title>
+      <guid isPermaLink="false">SEC-00019</guid>
+      <description>OTA 업데이트 중 통신 연결 중단에 따른 보안 위험 분석과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 전자서명과 해시값을 검증하고 신뢰할 수 없는 파일을 거부하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sun, 06 Sep 2026 22:27:00 +0900</pubDate>
+      <source url="https://example.com/">가상 사이버모빌리티 리뷰</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00019.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 소프트웨어 구버전 재설치 공격 방지 기능 개발</title>
+      <guid isPermaLink="false">SEC-00020</guid>
+      <description>차량 소프트웨어 구버전 재설치 공격 방지 기능 개발과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Mon, 07 Sep 2026 05:40:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량취약점 정보센터</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00020.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>C사, 차량 펌웨어 배포 과정의 전자서명 검증 강화</title>
+      <guid isPermaLink="false">SEC-00021</guid>
+      <description>차량 펌웨어 배포 과정의 전자서명 검증 강화과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 전자서명과 해시값을 검증하고 신뢰할 수 없는 파일을 거부하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Mon, 07 Sep 2026 12:53:00 +0900</pubDate>
+      <source url="https://example.com/">가상 모빌리티 보안뉴스</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00021.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 업데이트 파일 다운로드 경로 보안 점검</title>
+      <guid isPermaLink="false">SEC-00022</guid>
+      <description>차량 업데이트 파일 다운로드 경로 보안 점검과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 전자서명과 해시값을 검증하고 신뢰할 수 없는 파일을 거부하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Mon, 07 Sep 2026 19:11:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량보안 리포트</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00022.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>OTA 서버에서 비인가 업데이트 요청 차단 기능 검증</title>
+      <guid isPermaLink="false">SEC-00023</guid>
+      <description>OTA 서버에서 비인가 업데이트 요청 차단 기능 검증과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 전자서명과 해시값을 검증하고 신뢰할 수 없는 파일을 거부하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Tue, 08 Sep 2026 02:24:00 +0900</pubDate>
+      <source url="https://example.com/">가상 오토사이버 데일리</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00023.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 소프트웨어 배포 시스템의 공급망 보안 위험 분석</title>
+      <guid isPermaLink="false">SEC-00024</guid>
+      <description>차량 소프트웨어 배포 시스템의 공급망 보안 위험 분석과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 전자서명과 해시값을 검증하고 신뢰할 수 없는 파일을 거부하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Tue, 08 Sep 2026 09:37:00 +0900</pubDate>
+      <source url="https://example.com/">가상 커넥티드카 보안센터</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00024.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>업데이트 패키지 해시값 검증 오류에 대한 대응 방안 마련</title>
+      <guid isPermaLink="false">SEC-00025</guid>
+      <description>업데이트 패키지 해시값 검증 오류에 대한 대응 방안 마련과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 전자서명과 해시값을 검증하고 신뢰할 수 없는 파일을 거부하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Tue, 08 Sep 2026 16:50:00 +0900</pubDate>
+      <source url="https://example.com/">가상 모빌리티 위협분석소</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00025.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>D사, 차량 SW 업데이트 이력 위변조 탐지 기능 개선</title>
+      <guid isPermaLink="false">SEC-00026</guid>
+      <description>차량 SW 업데이트 이력 위변조 탐지 기능 개선과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 전자서명과 해시값을 검증하고 신뢰할 수 없는 파일을 거부하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Tue, 08 Sep 2026 23:08:00 +0900</pubDate>
+      <source url="https://example.com/">가상 자동차 보안저널</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00026.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 업데이트 인증서 만료에 따른 서비스 영향 분석</title>
+      <guid isPermaLink="false">SEC-00027</guid>
+      <description>차량 업데이트 인증서 만료에 따른 서비스 영향 분석과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 전자서명과 해시값을 검증하고 신뢰할 수 없는 파일을 거부하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Wed, 09 Sep 2026 06:21:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량 SW 보안브리핑</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00027.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 펌웨어 암호화 저장 방식의 보안성 검토</title>
+      <guid isPermaLink="false">SEC-00028</guid>
+      <description>차량 펌웨어 암호화 저장 방식의 보안성 검토과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 전자서명과 해시값을 검증하고 신뢰할 수 없는 파일을 거부하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Wed, 09 Sep 2026 13:34:00 +0900</pubDate>
+      <source url="https://example.com/">가상 오토네트워크 뉴스</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00028.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>OTA 업데이트 서버의 관리자 권한 오용 방지 대책 수립</title>
+      <guid isPermaLink="false">SEC-00029</guid>
+      <description>OTA 업데이트 서버의 관리자 권한 오용 방지 대책 수립과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 전자서명과 해시값을 검증하고 신뢰할 수 없는 파일을 거부하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Wed, 09 Sep 2026 20:47:00 +0900</pubDate>
+      <source url="https://example.com/">가상 사이버모빌리티 리뷰</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00029.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 소프트웨어 배포 과정의 무결성 검증 자동화 추진</title>
+      <guid isPermaLink="false">SEC-00030</guid>
+      <description>차량 소프트웨어 배포 과정의 무결성 검증 자동화 추진과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 전자서명과 해시값을 검증하고 신뢰할 수 없는 파일을 거부하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Thu, 10 Sep 2026 03:05:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량취약점 정보센터</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00030.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 진단 프로그램의 사용자 인증 우회 가능성 분석</title>
+      <guid isPermaLink="false">SEC-00031</guid>
+      <description>차량 진단 프로그램의 사용자 인증 우회 가능성 분석과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 이상 징후를 기록하고 임계치 초과 시 경보를 발생시키는 탐지 규칙을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Thu, 10 Sep 2026 10:18:00 +0900</pubDate>
+      <source url="https://example.com/">가상 모빌리티 보안뉴스</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00031.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>A사, 정비용 진단기 접속 권한 관리 기능 강화</title>
+      <guid isPermaLink="false">SEC-00032</guid>
+      <description>정비용 진단기 접속 권한 관리 기능 강화과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 최소 권한을 적용하고 관리자 작업에 대한 승인 및 감사 기록을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Thu, 10 Sep 2026 17:31:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량보안 리포트</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00032.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>진단용 노트북을 통한 악성코드 유입 위험 점검</title>
+      <guid isPermaLink="false">SEC-00033</guid>
+      <description>진단용 노트북을 통한 악성코드 유입 위험 점검과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Fri, 11 Sep 2026 00:44:00 +0900</pubDate>
+      <source url="https://example.com/">가상 오토사이버 데일리</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00033.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 OBD 인터페이스의 비인가 접근 차단 기술 검증</title>
+      <guid isPermaLink="false">SEC-00034</guid>
+      <description>차량 OBD 인터페이스의 비인가 접근 차단 기술 검증과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Fri, 11 Sep 2026 07:02:00 +0900</pubDate>
+      <source url="https://example.com/">가상 커넥티드카 보안센터</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00034.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>B사, 차량 진단 데이터 전송 과정의 암호화 적용</title>
+      <guid isPermaLink="false">SEC-00035</guid>
+      <description>차량 진단 데이터 전송 과정의 암호화 적용과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 암호화된 통신 채널과 인증서 유효성 검사를 적용하는 방식을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Fri, 11 Sep 2026 14:15:00 +0900</pubDate>
+      <source url="https://example.com/">가상 모빌리티 위협분석소</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00035.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>정비용 태블릿의 보안 패치 미적용 위험 분석</title>
+      <guid isPermaLink="false">SEC-00036</guid>
+      <description>정비용 태블릿의 보안 패치 미적용 위험 분석과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Fri, 11 Sep 2026 21:28:00 +0900</pubDate>
+      <source url="https://example.com/">가상 자동차 보안저널</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00036.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 진단 세션의 인증정보 재사용 가능성 점검</title>
+      <guid isPermaLink="false">SEC-00037</guid>
+      <description>차량 진단 세션의 인증정보 재사용 가능성 점검과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sat, 12 Sep 2026 04:41:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량 SW 보안브리핑</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00037.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>진단 소프트웨어 설치 파일의 무결성 검증 체계 개선</title>
+      <guid isPermaLink="false">SEC-00038</guid>
+      <description>진단 소프트웨어 설치 파일의 무결성 검증 체계 개선과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 전자서명과 해시값을 검증하고 신뢰할 수 없는 파일을 거부하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sat, 12 Sep 2026 11:54:00 +0900</pubDate>
+      <source url="https://example.com/">가상 오토네트워크 뉴스</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00038.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>USB 저장매체를 통한 진단 장비 악성코드 감염 대응</title>
+      <guid isPermaLink="false">SEC-00039</guid>
+      <description>USB 저장매체를 통한 진단 장비 악성코드 감염 대응과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sat, 12 Sep 2026 18:12:00 +0900</pubDate>
+      <source url="https://example.com/">가상 사이버모빌리티 리뷰</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00039.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 진단기 관리자 계정의 권한 오용 가능성 분석</title>
+      <guid isPermaLink="false">SEC-00040</guid>
+      <description>차량 진단기 관리자 계정의 권한 오용 가능성 분석과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 최소 권한을 적용하고 관리자 작업에 대한 승인 및 감사 기록을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sun, 13 Sep 2026 01:25:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량취약점 정보센터</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00040.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>C사, 정비 장비 원격 접속 시 다중인증 적용 검토</title>
+      <guid isPermaLink="false">SEC-00041</guid>
+      <description>정비 장비 원격 접속 시 다중인증 적용 검토과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sun, 13 Sep 2026 08:38:00 +0900</pubDate>
+      <source url="https://example.com/">가상 모빌리티 보안뉴스</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00041.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>진단 명령 처리 과정의 비정상 요청 탐지 기술 개발</title>
+      <guid isPermaLink="false">SEC-00042</guid>
+      <description>진단 명령 처리 과정의 비정상 요청 탐지 기술 개발과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 이상 징후를 기록하고 임계치 초과 시 경보를 발생시키는 탐지 규칙을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sun, 13 Sep 2026 15:51:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량보안 리포트</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00042.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 진단 로그의 무단 변경 및 삭제 방지 기능 검증</title>
+      <guid isPermaLink="false">SEC-00043</guid>
+      <description>차량 진단 로그의 무단 변경 및 삭제 방지 기능 검증과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 이상 징후를 기록하고 임계치 초과 시 경보를 발생시키는 탐지 규칙을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sun, 13 Sep 2026 22:09:00 +0900</pubDate>
+      <source url="https://example.com/">가상 오토사이버 데일리</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00043.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>진단용 PC와 차량 간 통신 세션 보호 방안 마련</title>
+      <guid isPermaLink="false">SEC-00044</guid>
+      <description>진단용 PC와 차량 간 통신 세션 보호 방안 마련과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Mon, 14 Sep 2026 05:22:00 +0900</pubDate>
+      <source url="https://example.com/">가상 커넥티드카 보안센터</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00044.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>정비 시스템과 차량 진단기 간 인증 체계 개선</title>
+      <guid isPermaLink="false">SEC-00045</guid>
+      <description>정비 시스템과 차량 진단기 간 인증 체계 개선과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Mon, 14 Sep 2026 12:35:00 +0900</pubDate>
+      <source url="https://example.com/">가상 모빌리티 위협분석소</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00045.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 CAN 통신망의 메시지 위조 공격 대응 기술 분석</title>
+      <guid isPermaLink="false">SEC-00046</guid>
+      <description>차량 CAN 통신망의 메시지 위조 공격 대응 기술 분석과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Mon, 14 Sep 2026 19:48:00 +0900</pubDate>
+      <source url="https://example.com/">가상 자동차 보안저널</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00046.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>A사, 차량 이더넷 네트워크의 접근통제 정책 강화</title>
+      <guid isPermaLink="false">SEC-00047</guid>
+      <description>차량 이더넷 네트워크의 접근통제 정책 강화과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 최소 권한을 적용하고 관리자 작업에 대한 승인 및 감사 기록을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Tue, 15 Sep 2026 02:06:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량 SW 보안브리핑</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00047.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 게이트웨이의 비정상 트래픽 탐지 기능 검증</title>
+      <guid isPermaLink="false">SEC-00048</guid>
+      <description>차량 게이트웨이의 비정상 트래픽 탐지 기능 검증과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 이상 징후를 기록하고 임계치 초과 시 경보를 발생시키는 탐지 규칙을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Tue, 15 Sep 2026 09:19:00 +0900</pubDate>
+      <source url="https://example.com/">가상 오토네트워크 뉴스</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00048.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>V2X 통신 환경에서 메시지 출처 검증 중요성 증가</title>
+      <guid isPermaLink="false">SEC-00049</guid>
+      <description>V2X 통신 환경에서 메시지 출처 검증 중요성 증가과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Tue, 15 Sep 2026 16:32:00 +0900</pubDate>
+      <source url="https://example.com/">가상 사이버모빌리티 리뷰</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00049.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 블루투스 연결 과정의 인증 취약점 점검</title>
+      <guid isPermaLink="false">SEC-00050</guid>
+      <description>차량 블루투스 연결 과정의 인증 취약점 점검과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Tue, 15 Sep 2026 23:45:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량취약점 정보센터</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00050.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>B사, 차량 Wi-Fi 통신 암호화 설정 개선</title>
+      <guid isPermaLink="false">SEC-00051</guid>
+      <description>차량 Wi-Fi 통신 암호화 설정 개선과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 암호화된 통신 채널과 인증서 유효성 검사를 적용하는 방식을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Wed, 16 Sep 2026 06:03:00 +0900</pubDate>
+      <source url="https://example.com/">가상 모빌리티 보안뉴스</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00051.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 통신 세션 탈취 공격에 대한 방어 기술 개발</title>
+      <guid isPermaLink="false">SEC-00052</guid>
+      <description>차량 통신 세션 탈취 공격에 대한 방어 기술 개발과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Wed, 16 Sep 2026 13:16:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량보안 리포트</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00052.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 내부 통신 메시지 재전송 공격 탐지 방안 검토</title>
+      <guid isPermaLink="false">SEC-00053</guid>
+      <description>차량 내부 통신 메시지 재전송 공격 탐지 방안 검토과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 이상 징후를 기록하고 임계치 초과 시 경보를 발생시키는 탐지 규칙을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Wed, 16 Sep 2026 20:29:00 +0900</pubDate>
+      <source url="https://example.com/">가상 오토사이버 데일리</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00053.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 네트워크 서비스 거부 공격에 따른 영향 분석</title>
+      <guid isPermaLink="false">SEC-00054</guid>
+      <description>차량 네트워크 서비스 거부 공격에 따른 영향 분석과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 장애 발생 시 안전한 상태를 유지하고 복구 이력을 보존하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Thu, 17 Sep 2026 03:42:00 +0900</pubDate>
+      <source url="https://example.com/">가상 커넥티드카 보안센터</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00054.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 무선 통신 모듈의 암호키 갱신 절차 개선</title>
+      <guid isPermaLink="false">SEC-00055</guid>
+      <description>차량 무선 통신 모듈의 암호키 갱신 절차 개선과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 암호키의 접근 권한을 제한하고 주기적으로 교체하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Thu, 17 Sep 2026 10:00:00 +0900</pubDate>
+      <source url="https://example.com/">가상 모빌리티 위협분석소</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00055.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>C사, 차량 게이트웨이 보안 정책 오류 점검</title>
+      <guid isPermaLink="false">SEC-00056</guid>
+      <description>차량 게이트웨이 보안 정책 오류 점검과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Thu, 17 Sep 2026 17:13:00 +0900</pubDate>
+      <source url="https://example.com/">가상 자동차 보안저널</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00056.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 통신 프로토콜의 비정상 데이터 처리 취약점 분석</title>
+      <guid isPermaLink="false">SEC-00057</guid>
+      <description>차량 통신 프로토콜의 비정상 데이터 처리 취약점 분석과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Fri, 18 Sep 2026 00:26:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량 SW 보안브리핑</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00057.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>커넥티드카 통신 구간의 중간자 공격 방어 기능 시험</title>
+      <guid isPermaLink="false">SEC-00058</guid>
+      <description>커넥티드카 통신 구간의 중간자 공격 방어 기능 시험과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 암호화된 통신 채널과 인증서 유효성 검사를 적용하는 방식을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Fri, 18 Sep 2026 07:39:00 +0900</pubDate>
+      <source url="https://example.com/">가상 오토네트워크 뉴스</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00058.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 통신 데이터 도청 위험에 대한 암호화 대응 강화</title>
+      <guid isPermaLink="false">SEC-00059</guid>
+      <description>차량 통신 데이터 도청 위험에 대한 암호화 대응 강화과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 암호화된 통신 채널과 인증서 유효성 검사를 적용하는 방식을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Fri, 18 Sep 2026 14:52:00 +0900</pubDate>
+      <source url="https://example.com/">가상 사이버모빌리티 리뷰</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00059.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 네트워크 침입 탐지 시스템의 오탐 개선 연구</title>
+      <guid isPermaLink="false">SEC-00060</guid>
+      <description>차량 네트워크 침입 탐지 시스템의 오탐 개선 연구과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 이상 징후를 기록하고 임계치 초과 시 경보를 발생시키는 탐지 규칙을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Fri, 18 Sep 2026 21:10:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량취약점 정보센터</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00060.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>A사, 차량 관리 서버의 비인가 API 접근 차단 기능 강화</title>
+      <guid isPermaLink="false">SEC-00061</guid>
+      <description>차량 관리 서버의 비인가 API 접근 차단 기능 강화과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sat, 19 Sep 2026 04:23:00 +0900</pubDate>
+      <source url="https://example.com/">가상 모빌리티 보안뉴스</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00061.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>커넥티드카 클라우드 서비스의 사용자 인증 오류 점검</title>
+      <guid isPermaLink="false">SEC-00062</guid>
+      <description>커넥티드카 클라우드 서비스의 사용자 인증 오류 점검과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sat, 19 Sep 2026 11:36:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량보안 리포트</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00062.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 원격 제어 서버의 접근 권한 설정 취약점 분석</title>
+      <guid isPermaLink="false">SEC-00063</guid>
+      <description>차량 원격 제어 서버의 접근 권한 설정 취약점 분석과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sat, 19 Sep 2026 18:49:00 +0900</pubDate>
+      <source url="https://example.com/">가상 오토사이버 데일리</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00063.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>B사, 차량 데이터 관리 시스템의 암호화 저장 방식 개선</title>
+      <guid isPermaLink="false">SEC-00064</guid>
+      <description>차량 데이터 관리 시스템의 암호화 저장 방식 개선과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 암호화된 통신 채널과 인증서 유효성 검사를 적용하는 방식을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sun, 20 Sep 2026 01:07:00 +0900</pubDate>
+      <source url="https://example.com/">가상 커넥티드카 보안센터</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00064.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 서비스 API의 인증 토큰 노출 위험 점검</title>
+      <guid isPermaLink="false">SEC-00065</guid>
+      <description>차량 서비스 API의 인증 토큰 노출 위험 점검과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sun, 20 Sep 2026 08:20:00 +0900</pubDate>
+      <source url="https://example.com/">가상 모빌리티 위협분석소</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00065.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>자동차 백엔드 시스템의 내부자 권한 남용 방지 대책 강화</title>
+      <guid isPermaLink="false">SEC-00066</guid>
+      <description>자동차 백엔드 시스템의 내부자 권한 남용 방지 대책 강화과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 최소 권한을 적용하고 관리자 작업에 대한 승인 및 감사 기록을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sun, 20 Sep 2026 15:33:00 +0900</pubDate>
+      <source url="https://example.com/">가상 자동차 보안저널</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00066.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 클라우드 저장소의 접근통제 설정 오류 분석</title>
+      <guid isPermaLink="false">SEC-00067</guid>
+      <description>차량 클라우드 저장소의 접근통제 설정 오류 분석과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 최소 권한을 적용하고 관리자 작업에 대한 승인 및 감사 기록을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sun, 20 Sep 2026 22:46:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량 SW 보안브리핑</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00067.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>C사, 차량 관제 서버의 서비스 거부 공격 대응 시험</title>
+      <guid isPermaLink="false">SEC-00068</guid>
+      <description>차량 관제 서버의 서비스 거부 공격 대응 시험과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 장애 발생 시 안전한 상태를 유지하고 복구 이력을 보존하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Mon, 21 Sep 2026 05:04:00 +0900</pubDate>
+      <source url="https://example.com/">가상 오토네트워크 뉴스</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00068.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>원격 차량 관리 시스템의 관리자 계정 보호 체계 개선</title>
+      <guid isPermaLink="false">SEC-00069</guid>
+      <description>원격 차량 관리 시스템의 관리자 계정 보호 체계 개선과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 최소 권한을 적용하고 관리자 작업에 대한 승인 및 감사 기록을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Mon, 21 Sep 2026 12:17:00 +0900</pubDate>
+      <source url="https://example.com/">가상 사이버모빌리티 리뷰</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00069.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 서비스 서버 간 인증정보 전달 방식의 보안성 검토</title>
+      <guid isPermaLink="false">SEC-00070</guid>
+      <description>차량 서비스 서버 간 인증정보 전달 방식의 보안성 검토과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Mon, 21 Sep 2026 19:30:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량취약점 정보센터</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00070.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 데이터베이스의 비인가 조회 시도 탐지 기술 개발</title>
+      <guid isPermaLink="false">SEC-00071</guid>
+      <description>차량 데이터베이스의 비인가 조회 시도 탐지 기술 개발과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 이상 징후를 기록하고 임계치 초과 시 경보를 발생시키는 탐지 규칙을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Tue, 22 Sep 2026 02:43:00 +0900</pubDate>
+      <source url="https://example.com/">가상 모빌리티 보안뉴스</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00071.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>자동차 클라우드 서비스의 보안 로그 위변조 방지 적용</title>
+      <guid isPermaLink="false">SEC-00072</guid>
+      <description>자동차 클라우드 서비스의 보안 로그 위변조 방지 적용과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 전자서명과 해시값을 검증하고 신뢰할 수 없는 파일을 거부하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Tue, 22 Sep 2026 09:01:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량보안 리포트</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00072.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 백엔드 시스템의 인증서 갱신 절차 개선</title>
+      <guid isPermaLink="false">SEC-00073</guid>
+      <description>차량 백엔드 시스템의 인증서 갱신 절차 개선과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 암호화된 통신 채널과 인증서 유효성 검사를 적용하는 방식을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Tue, 22 Sep 2026 16:14:00 +0900</pubDate>
+      <source url="https://example.com/">가상 오토사이버 데일리</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00073.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>커넥티드카 서버의 취약한 암호화 프로토콜 사용 위험 분석</title>
+      <guid isPermaLink="false">SEC-00074</guid>
+      <description>커넥티드카 서버의 취약한 암호화 프로토콜 사용 위험 분석과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 암호화된 통신 채널과 인증서 유효성 검사를 적용하는 방식을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Tue, 22 Sep 2026 23:27:00 +0900</pubDate>
+      <source url="https://example.com/">가상 커넥티드카 보안센터</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00074.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 서비스 장애 발생 시 보안 복구 절차 검증</title>
+      <guid isPermaLink="false">SEC-00075</guid>
+      <description>차량 서비스 장애 발생 시 보안 복구 절차 검증과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 장애 발생 시 안전한 상태를 유지하고 복구 이력을 보존하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Wed, 23 Sep 2026 06:40:00 +0900</pubDate>
+      <source url="https://example.com/">가상 모빌리티 위협분석소</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00075.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 ECU의 보안 부팅 검증 절차 강화</title>
+      <guid isPermaLink="false">SEC-00076</guid>
+      <description>차량 ECU의 보안 부팅 검증 절차 강화과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Wed, 23 Sep 2026 13:53:00 +0900</pubDate>
+      <source url="https://example.com/">가상 자동차 보안저널</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00076.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>A사, 차량 제어기 펌웨어 무결성 보호 기술 개선</title>
+      <guid isPermaLink="false">SEC-00077</guid>
+      <description>차량 제어기 펌웨어 무결성 보호 기술 개선과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 전자서명과 해시값을 검증하고 신뢰할 수 없는 파일을 거부하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Wed, 23 Sep 2026 20:11:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량 SW 보안브리핑</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00077.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>ECU 디버그 인터페이스를 통한 비인가 접근 위험 분석</title>
+      <guid isPermaLink="false">SEC-00078</guid>
+      <description>ECU 디버그 인터페이스를 통한 비인가 접근 위험 분석과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Thu, 24 Sep 2026 03:24:00 +0900</pubDate>
+      <source url="https://example.com/">가상 오토네트워크 뉴스</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00078.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 제어기 내부 암호키 저장 영역의 보안성 점검</title>
+      <guid isPermaLink="false">SEC-00079</guid>
+      <description>차량 제어기 내부 암호키 저장 영역의 보안성 점검과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 암호키의 접근 권한을 제한하고 주기적으로 교체하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Thu, 24 Sep 2026 10:37:00 +0900</pubDate>
+      <source url="https://example.com/">가상 사이버모빌리티 리뷰</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00079.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>B사, 차량 사용자 위치정보 보호 기능 강화</title>
+      <guid isPermaLink="false">SEC-00080</guid>
+      <description>차량 사용자 위치정보 보호 기능 강화과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 개인정보 수집 범위를 제한하고 저장 데이터를 암호화하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Thu, 24 Sep 2026 17:50:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량취약점 정보센터</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00080.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 운행 데이터의 비인가 수집 및 전송 방지 대책 검토</title>
+      <guid isPermaLink="false">SEC-00081</guid>
+      <description>차량 운행 데이터의 비인가 수집 및 전송 방지 대책 검토과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 개인정보 수집 범위를 제한하고 저장 데이터를 암호화하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Fri, 25 Sep 2026 00:08:00 +0900</pubDate>
+      <source url="https://example.com/">가상 모빌리티 보안뉴스</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00081.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>ECU 소프트웨어 실행 과정의 무결성 검증 기술 개발</title>
+      <guid isPermaLink="false">SEC-00082</guid>
+      <description>ECU 소프트웨어 실행 과정의 무결성 검증 기술 개발과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 전자서명과 해시값을 검증하고 신뢰할 수 없는 파일을 거부하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Fri, 25 Sep 2026 07:21:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량보안 리포트</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00082.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 제어기 인증 실패 기록의 보안 로그 관리 개선</title>
+      <guid isPermaLink="false">SEC-00083</guid>
+      <description>차량 제어기 인증 실패 기록의 보안 로그 관리 개선과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 이상 징후를 기록하고 임계치 초과 시 경보를 발생시키는 탐지 규칙을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Fri, 25 Sep 2026 14:34:00 +0900</pubDate>
+      <source url="https://example.com/">가상 오토사이버 데일리</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00083.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>디지털 차량 키 인증정보 복제 공격 대응 기술 분석</title>
+      <guid isPermaLink="false">SEC-00084</guid>
+      <description>디지털 차량 키 인증정보 복제 공격 대응 기술 분석과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Fri, 25 Sep 2026 21:47:00 +0900</pubDate>
+      <source url="https://example.com/">가상 커넥티드카 보안센터</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00084.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>C사, 차량 사용자 계정 정보 암호화 방식 개선</title>
+      <guid isPermaLink="false">SEC-00085</guid>
+      <description>차량 사용자 계정 정보 암호화 방식 개선과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 암호화된 통신 채널과 인증서 유효성 검사를 적용하는 방식을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sat, 26 Sep 2026 04:05:00 +0900</pubDate>
+      <source url="https://example.com/">가상 모빌리티 위협분석소</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00085.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 제어기 메모리 접근통제 취약점 점검</title>
+      <guid isPermaLink="false">SEC-00086</guid>
+      <description>차량 제어기 메모리 접근통제 취약점 점검과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sat, 26 Sep 2026 11:18:00 +0900</pubDate>
+      <source url="https://example.com/">가상 자동차 보안저널</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00086.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 인포테인먼트 시스템의 개인정보 보호 기능 강화</title>
+      <guid isPermaLink="false">SEC-00087</guid>
+      <description>차량 인포테인먼트 시스템의 개인정보 보호 기능 강화과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 개인정보 수집 범위를 제한하고 저장 데이터를 암호화하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sat, 26 Sep 2026 18:31:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량 SW 보안브리핑</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00087.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>ECU 간 통신 메시지의 인증 절차 개선</title>
+      <guid isPermaLink="false">SEC-00088</guid>
+      <description>ECU 간 통신 메시지의 인증 절차 개선과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sun, 27 Sep 2026 01:44:00 +0900</pubDate>
+      <source url="https://example.com/">가상 오토네트워크 뉴스</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00088.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 데이터 삭제 및 초기화 과정의 보안 검증</title>
+      <guid isPermaLink="false">SEC-00089</guid>
+      <description>차량 데이터 삭제 및 초기화 과정의 보안 검증과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sun, 27 Sep 2026 08:02:00 +0900</pubDate>
+      <source url="https://example.com/">가상 사이버모빌리티 리뷰</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00089.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 제어기 소프트웨어 변조 탐지 기술 시험</title>
+      <guid isPermaLink="false">SEC-00090</guid>
+      <description>차량 제어기 소프트웨어 변조 탐지 기술 시험과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 전자서명과 해시값을 검증하고 신뢰할 수 없는 파일을 거부하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sun, 27 Sep 2026 15:15:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량취약점 정보센터</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00090.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>자동차 사이버보안 취약점 평가를 위한 위험도 산정 체계 개선</title>
+      <guid isPermaLink="false">SEC-00091</guid>
+      <description>자동차 사이버보안 취약점 평가를 위한 위험도 산정 체계 개선과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Sun, 27 Sep 2026 22:28:00 +0900</pubDate>
+      <source url="https://example.com/">가상 모빌리티 보안뉴스</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00091.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>A사, 차량 소프트웨어 구성요소 취약점 관리 절차 강화</title>
+      <guid isPermaLink="false">SEC-00092</guid>
+      <description>차량 소프트웨어 구성요소 취약점 관리 절차 강화과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Mon, 28 Sep 2026 05:41:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량보안 리포트</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00092.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 사이버보안 위협 분석 및 위험평가 방법론 검토</title>
+      <guid isPermaLink="false">SEC-00093</guid>
+      <description>차량 사이버보안 위협 분석 및 위험평가 방법론 검토과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Mon, 28 Sep 2026 12:54:00 +0900</pubDate>
+      <source url="https://example.com/">가상 오토사이버 데일리</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00093.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>자동차 부품 공급망의 소프트웨어 취약점 대응 체계 구축</title>
+      <guid isPermaLink="false">SEC-00094</guid>
+      <description>자동차 부품 공급망의 소프트웨어 취약점 대응 체계 구축과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Mon, 28 Sep 2026 19:12:00 +0900</pubDate>
+      <source url="https://example.com/">가상 커넥티드카 보안센터</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00094.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>B사, 차량 사이버보안 침투시험 범위 확대</title>
+      <guid isPermaLink="false">SEC-00095</guid>
+      <description>차량 사이버보안 침투시험 범위 확대과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Tue, 29 Sep 2026 02:25:00 +0900</pubDate>
+      <source url="https://example.com/">가상 모빌리티 위협분석소</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00095.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 보안 이벤트의 자동 수집 및 분류 기술 개발</title>
+      <guid isPermaLink="false">SEC-00096</guid>
+      <description>차량 보안 이벤트의 자동 수집 및 분류 기술 개발과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 이상 징후를 기록하고 임계치 초과 시 경보를 발생시키는 탐지 규칙을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Tue, 29 Sep 2026 09:38:00 +0900</pubDate>
+      <source url="https://example.com/">가상 자동차 보안저널</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00096.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>자동차 사이버보안 관리체계 운영 현황 점검</title>
+      <guid isPermaLink="false">SEC-00097</guid>
+      <description>자동차 사이버보안 관리체계 운영 현황 점검과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Tue, 29 Sep 2026 16:51:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량 SW 보안브리핑</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00097.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 취약점 발견 이후 보안 패치 적용 절차 개선</title>
+      <guid isPermaLink="false">SEC-00098</guid>
+      <description>차량 취약점 발견 이후 보안 패치 적용 절차 개선과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Tue, 29 Sep 2026 23:09:00 +0900</pubDate>
+      <source url="https://example.com/">가상 오토네트워크 뉴스</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00098.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>차량 소프트웨어 라이브러리의 알려진 취약점 영향 분석</title>
+      <guid isPermaLink="false">SEC-00099</guid>
+      <description>차량 소프트웨어 라이브러리의 알려진 취약점 영향 분석과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 독립적인 시험 환경에서 위협 시나리오를 재현하고 결과를 기록하는 절차을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Wed, 30 Sep 2026 06:22:00 +0900</pubDate>
+      <source url="https://example.com/">가상 사이버모빌리티 리뷰</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00099.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+    <item>
+      <title>자동차 사이버보안 사고 대응 모의훈련 실시</title>
+      <guid isPermaLink="false">SEC-00100</guid>
+      <description>자동차 사이버보안 사고 대응 모의훈련 실시과 관련해 차량 또는 연계 시스템에서 발생할 수 있는 사이버보안 위협을 가정한 분석 사례다. 해당 기능의 입력값, 인증 상태, 접근 경로와 처리 결과를 점검하는 과정에서 설정 오류 또는 검증 누락이 발생하면 비인가 요청 처리, 정보 노출, 서비스 중단 등으로 이어질 가능성이 있다. 주요 대응 방안으로는 인증 요청의 사용자·장치 식별정보를 대조하고 실패 요청을 차단하는 정책을(를) 검토할 수 있다. 운영 환경에 적용하기 전 영향 범위를 식별하고, 테스트 환경에서 정상·비정상 요청을 구분해 재현한 뒤 조치 결과를 확인해야 한다. 본 내용은 가상 시나리오이며 실제 침해사고, 특정 제품 취약점 또는 CVE 등록 사실을 뜻하지 않는다.</description>
+      <pubDate>Wed, 30 Sep 2026 13:35:00 +0900</pubDate>
+      <source url="https://example.com/">가상 차량취약점 정보센터</source>
+      <link>https://jihun4355.github.io/rss_news/articles/SEC-00100.html</link>
+      <author>가상 모빌리티 보안뉴스</author>
+    </item>
+  </channel>
+</rss>
